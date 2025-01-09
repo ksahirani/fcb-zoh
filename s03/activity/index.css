@@ -1,0 +1,109 @@
+* {
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    padding: 16px;
+    margin-bottom: 4px;
+    background-color: skyblue;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-link {
+   font-size: 18px;
+   margin-left: 18px;
+   margin-right: 18px;
+   color: light yellow;
+   align-items: center;
+}
+
+#landing {
+    text-align: center;
+}
+
+#profile {
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 150px;
+}
+
+#name {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#title {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#intro {
+    width: 200px;
+    margin: auto;
+}
+
+#tools {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#tools-title {
+    margin-bottom: 20px;
+}
+
+.tools-img {
+    height: 100px;
+    width: 100px;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+
+#projects {
+    text-align: center; 
+}
+
+.card {
+    background-color: skyblue;
+    height: 400px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.card-img {
+    height: 300px;
+    width: 300px;
+}
+
+#contact {
+    background-color: skyblue;
+    padding: 16px;
+    margin-top: 4px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#contact p {
+    margin: 18px;
+}
+
+#contact a {
+    color: inherit;
+}
